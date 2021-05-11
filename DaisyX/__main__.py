@@ -87,12 +87,15 @@ buttons = [
 
 
 HELP_STRINGS = f"""
-*IAM Helper To Help You [😜](https://telegra.ph/file/58d0503eadaeaf60c2795.mp4)
+*IAM Helper To Help You :* [😜](https://telegra.ph/file/58d0503eadaeaf60c2795.mp4)
 
 I think English Must Learn Meh! It Can Saves lives! Sed.😅
 
-Donate This Idiot Who Locked Meh Here ;- /donate .
+Donate This Idiot Who Locked Meh Here ;- /donate
 
+✪ /settings: 
+   ◔ in PM: will send you your settings for all supported modules.
+   ◔ in a Group: will redirect you to pm, with all that chat's settings.
 """.format(
     dispatcher.bot.first_name,
     "" if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n",
