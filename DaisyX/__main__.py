@@ -91,7 +91,7 @@ HELP_STRINGS = f"""
 
 I think English Must Learn Meh! It Can Saves lives! Sed.😅
 
-Donate This Idiot Who Locked Meh Here ;- /donate 
+Donate This Idiot Who Locked Meh Here ;- /donate .
 
 """.format(
     dispatcher.bot.first_name,
