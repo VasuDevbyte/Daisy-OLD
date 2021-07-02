@@ -21,7 +21,7 @@ import os
 from datetime import datetime
 
 from PIL import Image
-from telegraph import Telegraph, exceptions, upload_file
+from telegraph import Telegraph, exceptions, update.chat.id, update.message_id
 from telethon import events
 
 from DaisyX.services.telethon import tbot as borg
